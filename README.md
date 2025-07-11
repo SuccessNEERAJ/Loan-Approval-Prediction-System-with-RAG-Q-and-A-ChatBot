@@ -2,6 +2,8 @@
 
 A comprehensive machine learning system for loan approval prediction with AI chatbot integration, built with Streamlit and TensorFlow.
 
+## 🔗 Website Link - https://loan-approval-prediction-system-with-rag-q-and-a-chatbot.streamlit.app/
+
 ## ✨ Features
 
 - **Advanced Data Preprocessing**: Missing value handling, outlier detection, and feature engineering
@@ -17,7 +19,7 @@ A comprehensive machine learning system for loan approval prediction with AI cha
 ### 1. Clone the Repository
 
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/SuccessNEERAJ/Loan-Approval-Prediction-System-with-RAG-Q-and-A-ChatBot
 ```
 
 ### 2. Install Dependencies
@@ -109,7 +111,7 @@ loan-prediction-chatbot/
 ![Model Training Options](Screenshots/5.%20Model%20Training%20Page.png)
 *Configure preprocessing options and train the model*
 
-![Training Results](Screenshots/6.%20Model%20Accuracy%20and%20Loss.png)
+![Training Results](Screenshots/6.%20Model%20Accuracy%20and%20loss.png)
 *View training accuracy, loss history, and overfitting analysis*
 
 ![Feature Importance](Screenshots/7.%20Feature%20Importance.png)
